@@ -1,0 +1,7 @@
+-Controle de versão crucial
+git init (uma vez pra cada projeto)
+git config --global user.name "SEU NOME"
+git config --global user.email "SEU EMAIL"
+
+-Criando uma nova versão local
+git add .
