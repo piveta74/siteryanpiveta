@@ -5,3 +5,11 @@ git config --global user.email "SEU EMAIL"
 
 -Criando uma nova versão local
 git add .
+git commit -m "COMENTARIO SOBRE A VERSAO"
+
+
+
+-Atrelar o repositório local ao repositório remoto
+git branch -M main (uma vez)
+git remote add origin "site de origem"
+git push -u origin main
