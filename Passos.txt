@@ -13,3 +13,8 @@ git commit -m "COMENTARIO SOBRE A VERSAO"
 git branch -M main (uma vez)
 git remote add origin "site de origem"
 git push -u origin main
+
+-Alterar no git e outra versão
+git add .
+git commit -m "versao nova"
+git push -u origin main
